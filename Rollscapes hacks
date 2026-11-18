@@ -1,0 +1,25 @@
+
+Step 1: Copy the Bookmarklet Code
+
+Copy the exact line of JavaScript below:
+javascript
+javascript:(function(){var s=document.createElement('script');s.src='https://jsdelivr.net{eruda.init();};})();
+Use code with caution.
+
+Step 2: Create the Bookmark
+
+• Bookmark any webpage. Open your mobile or desktop browser, visit any site, and add it to your bookmarks.
+• Open your bookmarks list. Go to your browser's bookmarks menu and find the bookmark you just saved.
+• Edit the bookmark. Tap Edit on that bookmark and give it a short, easy-to-remember name like Eruda.
+• Paste the code. Delete the existing web address in the URL (or Address) field, paste the JavaScript code from Step 1, and save your changes.
+
+Step 3: Open Eruda on Rollscapes
+
+• Load the game. Navigate to the ProtoType Studios Rollscapes page.
+• Run the bookmarklet. Tap the browser's address bar at the top or bottom of the screen, type Eruda, and select your bookmark from the dropdown suggestions (do not hit search).
+• Open the menu. A floating gear icon will appear on your screen. Tap it to open the developer console.
+
+Step 4: Inspect or Test Changes
+
+• View saved data. Tap the Resources tab inside Eruda, then select Local Storage to see if the game saves progress or scores locally.
+• Test custom scripts. Tap the Console tab to type and run JavaScript commands directly on the page (for example, typing Math.random = () => 0.9999; to test maximum roll outputs).
